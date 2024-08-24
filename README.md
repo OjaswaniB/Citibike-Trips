@@ -19,12 +19,7 @@ The Tableau dashboard integrates all the above features into a cohesive and inte
 ## Data Source
 
 - **Dataset:** Citibike trip data, including trip start and end stations, durations, and timestamps.
-- **Format:** CSV/Excel (or specify the actual format if different).
-
-## Tools and Technologies
-
-- **Tableau:** For creating interactive visualizations and dashboards.
-- **SQL/Excel (Optional):** For preliminary data manipulation and analysis.
+- **Format:** Text File.
 
 ## Installation and Usage
 
