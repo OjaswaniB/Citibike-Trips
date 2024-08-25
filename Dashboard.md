@@ -1,23 +1,24 @@
 # Dashboard
-![image](https://github.com/user-attachments/assets/8878f252-a8cd-4787-ab18-c70c4479ad6a)
+![image](https://github.com/user-attachments/assets/28257684-6c53-4aba-bae9-c4e013f8c341)
 
-## Filter Box
-![image](https://github.com/user-attachments/assets/39707805-fc3e-4fcc-95a7-f0ca0bcc4ee0)
-
-## Map of Most Popular Start Stations
-![image](https://github.com/user-attachments/assets/56208e3e-0769-4cca-960d-82ba61d832c9)
-
-## Average Trip Duration
-![image](https://github.com/user-attachments/assets/25e0fd85-3cf4-4f8f-91ca-8d0e950dadef)
+## Most Popular End Stations
+![image](https://github.com/user-attachments/assets/7d343130-1549-449a-8d33-a0f57c6d2d22)
 
 ## Most Popular Start Station
-![image](https://github.com/user-attachments/assets/7784d114-d29e-4190-829e-001ef11558b2)
+![image](https://github.com/user-attachments/assets/e4535c6a-dbef-4e75-8d59-463009ef9104)
+
+## Average Trip Duration
+![image](https://github.com/user-attachments/assets/ef827f3c-3d8d-4b11-819c-dd2401f0d7da)
 
 ## Start Time for User Types
-![image](https://github.com/user-attachments/assets/ce97991f-f09d-409e-b46c-519b67033896)
+![image](https://github.com/user-attachments/assets/bb06b05e-4ce5-49b4-b3c9-3b18b3db939f)
+
+## End Time for User Types
+![image](https://github.com/user-attachments/assets/0b1a46f8-2a6e-4698-85ce-4162fac7c209)
 
 ## Dashboard Completed
-![image](https://github.com/user-attachments/assets/0c40a5c8-3a71-42a3-a3ed-5b506620dcff)
+![image](https://github.com/user-attachments/assets/77e74a6d-fb71-4045-b86a-dc6ca9c1404c)
+
 
 
 
